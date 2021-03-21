@@ -5,7 +5,7 @@
 
 
 # EMAIL_ADDRESS = 'dwilfred2021@gmail.com'
-# EMAIL_PASSWORD = 'dsouza@1934'
+# EMAIL_PASSWORD = '88888888'
 
 
 
@@ -30,7 +30,7 @@
 # from email.message import EmailMessage
 
 # SENDER_EMAIL = 'dwilfred2021@gmail.com'
-# EMAIL_PASSWORD = 'dsouza@1934'
+# EMAIL_PASSWORD = '88888888'
 
 # Recipients = "wilfred.dsouza@liradolf.com,wilfred.dsouza94@ymail.com,chaturgirish151@gmail.com"
 
@@ -57,7 +57,7 @@ import smtplib
 from email.message import EmailMessage
 
 SENDER_EMAIL = 'dwilfred2021@gmail.com'
-EMAIL_PASSWORD = 'dsouza@1934'
+EMAIL_PASSWORD = '88888888'
 
 Recipients = "wilfred.dsouza@liradolf.com,wilfred.dsouza94@ymail.com"
 
