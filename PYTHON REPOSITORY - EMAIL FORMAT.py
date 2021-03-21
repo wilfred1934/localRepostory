@@ -14,7 +14,7 @@ except Exception as e:
 
 
 gmail_user = 'dwilfred2021@gmail.com'
-gmail_password = 'dsouza@1934'
+gmail_password = '88888'
 
 sent_from = gmail_user
 to = ['wilfred.dsouza@liradolf.com', 'wilfred.dsouza94@ymail.com', 'chaturgirish151@gmail.com']
